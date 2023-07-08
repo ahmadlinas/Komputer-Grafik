@@ -1,1 +1,2 @@
 # Komputer-Grafik
+#Ahmad Linas
